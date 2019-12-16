@@ -1,11 +1,11 @@
 # Site settings
-author: cedric e goddard
-title: 
+author: Cedric Goddard
+title: "Why I decided  to study Software Engineering"
 header-img: img/home-bg.png
 email: 8ceg6@comcast.net
-copyright_name: cedric e goddard
+copyright_name: Cedric Goddard
 description: > # this means to ignore newlines until "baseurl:"
-  
+  All about my why
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  8ceg6
