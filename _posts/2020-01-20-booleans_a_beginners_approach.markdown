@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**BOOLEANS A BEGINNERS APPROACH"
-date:       2020-01-21 01:11:16 +0000
+date:       2020-01-20 20:11:17 -0500
 permalink:  booleans_a_beginners_approach
 ---
 
